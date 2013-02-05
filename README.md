@@ -29,5 +29,5 @@ simply change it to what you wish.
 
 
 ## Vote for the plugin at vim.org
-[http://www.vim.org/scripts/script.php?script_id=](http://www.vim.org/scripts/script.php?script_id=)
+[http://www.vim.org/scripts/script.php?script_id=4426](http://www.vim.org/scripts/script.php?script_id=4426)
 
