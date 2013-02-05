@@ -8,7 +8,7 @@ A simple vim plugin to find files on path with filename auto-complete functional
 ## Installation
 
 ```
-git clone git@github.com:stegtmeyer/find-complete.git
+git clone https://github.com/stegtmeyer/find-complete.git
 cp find-complete/plugin/find-complete.vim ~/.vim/plugin/
 ```
 
@@ -25,7 +25,7 @@ simply change it to what you wish.
 
 ## License
 
-[LICENSE](https://github.com/stegtmeyer/find-complete/LICENSE.md)
+[LICENSE] (https://github.com/stegtmeyer/find-complete/blob/master/LICENSE.md)
 
 
 ## Vote for the plugin at vim.org
